@@ -5,6 +5,7 @@ Brainstorming of the Second Life Shinto shrine register (SLSR) [v2]
 About
 -----
 This repository contains all current brainstorming drafts of the Second Life Shinto shrine register (SLSR) version 2.
+It's published at https://sl-shinto-shrine-register.github.io/v2-brainstorming.
 
 License
 -------
